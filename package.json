@@ -1,0 +1,17 @@
+{
+  "name": "mdx-deck-layout-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DSchau/mdx-deck-layout-example.git",
+  "author": "Dustin Schau <dustinschau@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
+  },
+  "devDependencies": {
+    "mdx-deck": "^1.7.7"
+  },
+  "dependencies": {
+    "styled-components": "^3.4.9"
+  }
+}
